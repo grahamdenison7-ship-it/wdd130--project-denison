@@ -215,3 +215,50 @@ footer p {
         font-size: 1.8rem;
     }
 }
+
+/* Log in */
+
+.login-header {
+    text-align: center;
+    margin-top: 2rem;
+    color: #1e3c72;
+}
+
+.login-box {
+    background: #f1f1f1;
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 2rem auto;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.login-box label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.login-box input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-box button {
+    width: 100%;
+    padding: 0.7rem;
+    background-color: #667eea;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-box form {
+    padding-top: 20px;
+}
