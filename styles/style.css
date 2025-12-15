@@ -262,3 +262,39 @@ footer p {
 .login-box form {
     padding-top: 20px;
 }
+
+
+/* Contact Us Page  */
+.contact_us {
+    background: #f8f9fa;
+    padding: 3rem 2rem;
+    border-radius: 10px;
+    margin: 3rem 0;
+    text-align: left;
+}
+
+.contact_us h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #1e3c72;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.contact_us p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact_us p a{
+    color: #40abde;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%
+}
